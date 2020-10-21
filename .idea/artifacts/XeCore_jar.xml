@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="XeCore:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/XeCore_jar</output-path>
+    <root id="archive" name="XeCore.jar">
+      <element id="module-output" name="XeCore" />
+    </root>
+  </artifact>
+</component>
