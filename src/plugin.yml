@@ -1,0 +1,5 @@
+name: XeCore
+version: 0.01
+main: me.nitrogen.xecore.Main
+author: XeNitrogen, Angel
+description: Server Core Plugin
